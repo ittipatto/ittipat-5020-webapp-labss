@@ -1,0 +1,34 @@
+.center {
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+  }
+h1 {
+    color: red;
+}
+h2 {
+    color: green;
+    text-align: right;
+}
+h3, h4 {
+    color: blue;
+    text-align: center;
+}
+.leftparagragh {
+    color: darkturquoise;
+    text-align: left;
+    font-style: italic;
+    border: 2px solid royalblue;
+}
+.centerparagragh {
+    color: darkolivegreen;
+    text-align: center;
+    font-weight: bold;
+    border: 3px dotted coral;
+}
+.rightparagragh {
+    color: darkmagenta;
+    text-align: right;
+    font-size: large;
+    border: 4px dashed yellow;
+}

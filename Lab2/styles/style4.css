@@ -1,0 +1,54 @@
+.shift-left{
+    padding-left: 20px;
+}
+.ulNav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+}
+
+.liNav {
+    /* display: block; */
+    float: left;
+    color: white;
+    text-align: center;
+    padding:20px 1px;
+    text-decoration: none;
+}
+
+.aNav {
+    /* display: block; */
+    color: white;
+    text-align: center;
+    padding:20px 1px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: yellow;
+    color: black;
+}
+.active {
+    background-color: purple;
+}
+/* p, li {
+    font-weight: 500;
+} */
+ul.circle {
+    list-style-type: circle;
+}
+ol.i {
+    list-style-type: lower-roman;
+}
+p.unorder {
+    width: 15%;
+    padding: 5px;
+    background-color: skyblue;
+    border: 5px solid blue;
+}
+p.order {
+    width: 15%;
+    padding: 5px;
+    background-color: greenyellow;
+    border: 5px solid green;
+}

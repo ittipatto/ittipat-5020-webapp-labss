@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    margin:0;
+    padding: 20px 0;
+}
+table, td, th {
+    border: 1px solid;
+    text-align: right;
+    padding: 10px;
+}
+table {
+    height: 400px;
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    background: bisque;
+}
+tr:nth-child(even) {background-color: #b9ecff;}
+.leftaligned {
+    text-align: left;
+}
+.rightaligned {
+    text-align: right;
+}
+.yellow {
+    background: yellow;
+}
+.red {
+    background: red;
+}
+.greenyellow {
+    background: greenyellow;
+}
