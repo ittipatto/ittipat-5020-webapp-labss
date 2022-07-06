@@ -1,0 +1,1 @@
+My personal web site is at https://ittipatto.github.io/ittipat-5020-webapp-labss/ and its index.html is at https://github.com/ittipatto/ittipatto.github.io
